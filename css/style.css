@@ -1,0 +1,204 @@
+.body {
+  font-family: "Libre Baskerville", serif;
+}
+
+header {
+  background-image: linear-gradient(180deg, #D1BB9E, #FFFFFF);
+}
+
+/*Navbar*/
+.navbar-brand,
+.text-primary {
+  color: #664343;
+}
+
+.nav-link {
+  color: #A67B5B;
+}
+
+.nav-link:hover {
+  color: #4A4A4A;
+}
+
+.dropdown-item {
+  color: #A67B5B;
+}
+
+.dropdown-item:hover {
+  color: #4A4A4A;
+}
+
+/*Navbar end*/
+
+
+
+/*To wrap the content of the whole page. */
+#wrapper {
+  margin: auto;
+  width: 100%;
+  max-width: 100%;
+}
+
+/*hero Section*/
+
+.hero-button {
+  font-size: 1.25rem;
+  font-weight: 500;
+  background-color: #A67B5B;
+  border: none;
+  color: #FFFFFF;
+}
+
+.hero-button:hover {
+  background-color: #664343;
+}
+/*her section button end*/
+
+
+/* best seller section button*/
+
+.float-right-button {
+  float: right;
+  font-size: 1.25rem;
+  font-weight: 500;
+  background-color: #A67B5B;
+  border: none;
+  color: #FFFFFF;
+}
+.float-right-button:hover{
+  background-color: #664343;
+}
+
+.button1{
+  font-size: 1.25rem; 
+  font-weight: 500;
+  background-color: #A67B5B; 
+  border: none;
+  color:#FFFFFF;
+}
+
+.button1:hover{
+  background-color: #664343;
+}
+/*best seller end */
+
+/*search button start*/
+
+.search-btn{
+  padding: 0.25rem 0.5rem; /* Reduces padding */
+  font-size: 0.875rem;
+  font-weight: 500;
+  background-color: #A67B5B; 
+  border: none;
+  color:#FFFFFF;
+  
+}
+
+.search-btn:hover{
+  background-color: #664343;
+}
+
+/*search button end*/
+
+/*sale book section card start*/
+
+.saleBooks{
+  background-color: #F5F5F7;
+}
+
+/*sale book section card end*/
+
+.button2 {
+  float: right;
+  font-size: 1.25rem;
+  font-weight: 500;
+  background-color: #A67B5B;
+  border: none;
+  color: #FFFFFF;
+}
+
+.button2:hover{
+  background-color: #664343;
+}
+
+.newReleases {
+  background-color: #D1BB9E;
+}
+
+.bi-star-fill {
+  color: gold;
+}
+
+.bi-star {
+  color: #B7B7B7;
+}
+
+
+
+/*book of the month card start*/
+
+.book-of-the-month .card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.book-of-the-month .card-body {
+  padding: 20px;
+}
+
+.book-of-the-month .card-img {
+  width: 100%;
+  height: 200px;
+}
+
+/*book of the month card end*/
+
+/*for cart start*/
+
+/*cart modal button*/
+
+.removeButton{
+  margin: auto;
+  font-size: 1rem;
+  font-weight: 100;
+  background-color: #FFFFFF;
+  border: none;
+  color: #A67B5B;
+}
+
+.removeButton:hover{
+  background-color: #664343;
+}
+
+/*cart modal button end*/
+ 
+
+
+
+.modal-body-cart{
+  background-color: #FFF7F7;
+  font-weight: 600;
+  
+}
+
+.modal-footer{
+  background-color: #F8EDE3;
+}
+
+.modal-header-cart{
+  background-color: #EECAD5;
+}
+  /*cart end */
+
+  /* checkout start*/
+.modal-header-checkout{
+  background-color: #AB886D;
+}
+.modal-body-checkout{
+  background-color: #FCFAEE;
+}
+
+/* checkout end */
+
+
+
+
