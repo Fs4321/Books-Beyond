@@ -1,24 +1,25 @@
 # Books-Beyond
-Overview
+Written by Fariha Shahrin
+## Overview
 Books & Beyond is a static e-commerce website prototype showcasing a clean and responsive design for an online bookstore.
 
-Features
+## Features
 
-Responsive layout with Bootstrap 4
+- Responsive layout with Bootstrap 4
 
-Home page with book carousel and featured sections
+- Home page with book carousel and featured sections
 
-“New Releases” section with carousel
+- “New Releases” section with carousel
 
-Simple navigation and clean typography
+- Simple navigation and clean typography
 
-Tech Stack
+## Tech Stack
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-Bootstrap 4
+- Bootstrap 4
 
-Purpose
+## Purpose
 The project demonstrates fundamental web development skills and responsive design practices in a static website context.
